@@ -12,7 +12,7 @@ function getRandomNumber() {
   /**
    * This function generates a random number from 1 to 10
    *
-   * @return {Number} Return a rundom number.
+   * @return {Number} Return a random number.
   */
 		return Math.floor(Math.random() * 10);
 }
