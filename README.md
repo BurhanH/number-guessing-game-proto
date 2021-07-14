@@ -1,5 +1,4 @@
 # number-guessing-game-proto
-[![HitCount](http://hits.dwyl.com/BurhanH/number-guessing-game-proto.svg)](http://hits.dwyl.com/BurhanH/number-guessing-game-proto)
 
 NOTE! I get code (JavaScript, CSS, and HTML page) and made modifications in JavaScript file.
 
